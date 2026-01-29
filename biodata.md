@@ -1,3 +1,3 @@
 Nama : Luthfi Krishna Haryadi
 NIM : 25071103865
-Prodi : Teknik Informatika 
+Prodi : S1 Teknik Informatika 
