@@ -1,1 +1,0 @@
-print ("Luthfi krishna Haryadi")
