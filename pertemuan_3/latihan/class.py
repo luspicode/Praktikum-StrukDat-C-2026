@@ -19,4 +19,6 @@ class Tas:
 tas1 = Tas("Westpack", "katun", 100000, 5)
 tas2 = Tas("Lenovo", "polyester", 200000, 7)
 tas3 = Tas("Asus", "Latex", 150000, 8)
-Tas.ganti_kapasitas(20)
+
+tas3.ganti_kapasitas(20)
+print (tas3.kapasitas)
