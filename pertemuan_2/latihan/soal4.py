@@ -22,3 +22,6 @@ for x in nilai_siswa.values():
 #3. print yang nilai diatas 80
   if final >80:
     print (f"{x["nama"]} = {final}")
+
+
+print (nilai_siswa["S01"]["nama "])
