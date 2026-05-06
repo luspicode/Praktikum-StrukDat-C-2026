@@ -45,8 +45,8 @@ def leaf(root):
     return
   if root.kiri is None and root.kanan is None:
     print(root.data)
-  leaf(root.kanan)
   leaf(root.kiri)
+  leaf(root.kanan)
 
 leaf(root)
 # print('root :', root.data)
